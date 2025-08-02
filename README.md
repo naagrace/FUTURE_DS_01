@@ -1,5 +1,6 @@
 # FUTURE_DS_01
 🛍️ Retail Sales Power BI Dashboard (E-commerce Analysis)
+Task one of Future interns Data Science and Analytics internship
 
 📊 Objective
 
