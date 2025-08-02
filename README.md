@@ -1,12 +1,13 @@
 # FUTURE_DS_01
 🛍️ Retail Sales Power BI Dashboard (E-commerce Analysis)
-Task one of Future interns Data Science and Analytics internship
+Task one of the 'Future interns Data Science and Analytics internship'
 
 📊 Objective
 
 To gain business insights from online retail sales data by answering key questions that help understand product performance, customer behavior, and sales trends.
 
 ## 📁 Dataset
+
 
 The dataset used is publicly available on [Kaggle](https://www.kaggle.com/datasets/ertugrulesol/online-retail-data). It contains records of transactions from an online store.
 
@@ -41,6 +42,9 @@ Data was cleaned and transformed before loading into Power BI. Key steps include
 - Microsoft Power BI  
 - Microsoft Excel
 
+ Power BI dashboard image<img width="1195" height="714" alt="online retail dashboard screenshot" src="https://github.com/user-attachments/assets/5721d31c-a3d2-4a63-a5b6-9085d120edbd" />
+
+ 
   
   
 
